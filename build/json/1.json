@@ -1,0 +1,18 @@
+{
+  "name": "Your Collection -1",
+  "description": "Remember to replace this description",
+  "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+  "edition": 1,
+  "date": 1644910781215,
+  "attributes": [
+    { "trait_type": "Background-1", "value": "Black-1" },
+    { "trait_type": "Eyeball-1", "value": "Red-1" },
+    { "trait_type": "Eye color-1", "value": "Yellow-1" },
+    { "trait_type": "Iris-1", "value": "Medium-1" },
+    { "trait_type": "Shine-1", "value": "Shapes-1" },
+    { "trait_type": "Bottom lid-1", "value": "Low-1" },
+    { "trait_type": "Top lid-1", "value": "High-1" }
+  ],
+  "compiler": "HashLips Art Engine",
+  "image": "https://ipfs.io/ipfs/Qma1vu7D3fh4hJjBZiR3GtLq7GhYsv1vfLkQXmTQ4978Je"
+}

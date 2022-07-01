@@ -1,0 +1,17 @@
+{
+  "name": "Your Collection -12",
+  "description": "Remember to replace this description",
+  "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+  "edition": 1,
+  "date": 1644910781215,
+  "attributes": [
+    { "trait_type": "Background-12", "value": "Black-12" },
+    { "trait_type": "Eyeball-12", "value": "Red-12" },
+    { "trait_type": "Eye color-12", "value": "Yellow-12" },
+    { "trait_type": "Iris-12", "value": "Medium-12" },
+    { "trait_type": "Shine-12", "value": "Shapes-12" },
+    { "trait_type": "Bottom lid-12", "value": "Low-12" },
+    { "trait_type": "Top lid-12", "value": "High-12" }
+  ],
+  "compiler": "HashLips Art Engine"
+}
